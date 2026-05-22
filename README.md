@@ -56,6 +56,11 @@ This project automates the monthly regulatory reporting process for NPRA using M
 - Query-ready warehouse tables
 - Automated monthly reporting pipeline
 
+<img width="1422" height="743" alt="image" src="https://github.com/user-attachments/assets/08499c72-da2a-463d-823a-6c86774bc8f1" />
+<img width="1457" height="752" alt="image" src="https://github.com/user-attachments/assets/66fe558b-c0be-491e-a627-013862f40f3c" />
+<img width="1432" height="747" alt="image" src="https://github.com/user-attachments/assets/d845ac27-e2de-4766-89da-d7573e670b0e" />
+<img width="1437" height="737" alt="image" src="https://github.com/user-attachments/assets/c25a8ab9-51ce-4686-addd-047a8488a687" />
+
 - <img width="1393" height="670" alt="image" src="https://github.com/user-attachments/assets/164c2608-f34e-4f96-a8ab-1c6a686c817f" />
 <img width="1421" height="678" alt="image" src="https://github.com/user-attachments/assets/b5bbacba-f351-4c6b-b627-bf4a3eccd5f2" />
 <img width="1470" height="627" alt="image" src="https://github.com/user-attachments/assets/4c956ad2-0db9-4c1c-a035-68e33e22bd10" />
@@ -67,8 +72,9 @@ This project automates the monthly regulatory reporting process for NPRA using M
 - Pipeline captures failures at ingestion or transformation stage
 - Sends automated email alerts for troubleshooting
 -<img width="1322" height="755" alt="image" src="https://github.com/user-attachments/assets/d1931130-2825-413e-8b24-82d0318ae8fe" />
-- <img width="1417" height="751" alt="image" src="https://github.com/user-attachments/assets/a36bbc73-c27e-4984-b13a-f1e6ad25f573" />
 <img width="1421" height="737" alt="image" src="https://github.com/user-attachments/assets/b7ad0997-d5f1-46e5-a952-9075541e44ab" />
+<img width="1405" height="746" alt="image" src="https://github.com/user-attachments/assets/065181e3-aef4-4678-bcee-8a54535b2463" />
+
 
 
 ## Solution Overview
