@@ -56,11 +56,24 @@ This project automates the monthly regulatory reporting process for NPRA using M
 - Query-ready warehouse tables
 - Automated monthly reporting pipeline
 
+- <img width="1393" height="670" alt="image" src="https://github.com/user-attachments/assets/164c2608-f34e-4f96-a8ab-1c6a686c817f" />
+<img width="1421" height="678" alt="image" src="https://github.com/user-attachments/assets/b5bbacba-f351-4c6b-b627-bf4a3eccd5f2" />
+<img width="1470" height="627" alt="image" src="https://github.com/user-attachments/assets/4c956ad2-0db9-4c1c-a035-68e33e22bd10" />
+
+
+
+
 ## Error Handling
 - Pipeline captures failures at ingestion or transformation stage
 - Sends automated email alerts for troubleshooting
+-<img width="1322" height="755" alt="image" src="https://github.com/user-attachments/assets/d1931130-2825-413e-8b24-82d0318ae8fe" />
+- <img width="1417" height="751" alt="image" src="https://github.com/user-attachments/assets/a36bbc73-c27e-4984-b13a-f1e6ad25f573" />
+<img width="1421" height="737" alt="image" src="https://github.com/user-attachments/assets/b7ad0997-d5f1-46e5-a952-9075541e44ab" />
 
-## Author
+
+## Solution Overview
 Automated reporting solution built for NPRA regulatory submissions.
+<img width="1412" height="770" alt="image" src="https://github.com/user-attachments/assets/bbe70961-71b9-4876-8b9c-be822d1b3843" />
+<img width="1387" height="731" alt="image" src="https://github.com/user-attachments/assets/6893bb69-97ab-47af-a551-02ac9f031bc4" />
 
 <img width="1536" height="1024" alt="ChatGPT Image May 22, 2026, 01_40_54 PM" src="https://github.com/user-attachments/assets/422c1279-c917-46a9-b6c7-13c5a41c573a" />
